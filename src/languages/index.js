@@ -5,7 +5,7 @@
 const messageIds = require("./idMap")
 const { translate,VoerkaI18nScope  } =  require("@voerkai18n/runtime")
 const defaultFormatters = require("./formatters/zh.js")
-const activeFormatters = defaultFormatters
+// const activeFormatters = defaultFormatters  // 需要注释掉，不然会报错
 const defaultMessages =  require("./zh.js")        // 默认语言包
 const activeMessages = defaultMessages 
  
