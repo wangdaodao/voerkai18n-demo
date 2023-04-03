@@ -1,0 +1,30 @@
+{
+    "首页": {
+        "tw": "首頁",
+        "en": "Home",
+        "$file": [
+            "App.vue"
+        ]
+    },
+    "关于": {
+        "tw": "關於",
+        "en": "About",
+        "$file": [
+            "App.vue"
+        ]
+    },
+    "关于我": {
+        "tw": "關於我",
+        "en": "About me",
+        "$file": [
+            "views\\About.vue"
+        ]
+    },
+    "欢迎": {
+        "tw": "歡迎",
+        "en": "Welcome ",
+        "$file": [
+            "views\\Home.vue"
+        ]
+    }
+}
